@@ -9,14 +9,19 @@
 # to run
 ![start_server](https://github.com/WWWangHan/cluster-chat-server/blob/master/readme_img/start_server.png)
 > 启动服务器，需要提前配置好nginx的负载控制。
+
 ![start_client](https://github.com/WWWangHan/cluster-chat-server/blob/master/readme_img/start_client.png)
 > 启动客户端。
+
 ![check_mysql](https://github.com/WWWangHan/cluster-chat-server/blob/master/readme_img/check_mysql.png)
 > 查看mysql中用户信息。
+
 ![user_login](https://github.com/WWWangHan/cluster-chat-server/blob/master/readme_img/user_login.png)
 > 用户登录。
+
 ![chat](https://github.com/WWWangHan/cluster-chat-server/blob/master/readme_img/chat.png)
 > 因为nginx的负载均衡设置为轮询，所以两个用户也可以实现跨服务器聊天，
+
 ![user_status_update](https://github.com/WWWangHan/cluster-chat-server/blob/master/readme_img/user_status_update.png)
 > 用户登录成功以后，状态会得到更新。
 
