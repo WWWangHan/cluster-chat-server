@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/wh/workspace/chatserver-master/build/src/server",
+  "command": "/bin/g++-8   -I/home/wh/workspace/chatserver-master/include -I/home/wh/workspace/chatserver-master/include/server -I/home/wh/workspace/chatserver-master/include/server/db -I/home/wh/workspace/chatserver-master/include/server/model -I/home/wh/workspace/chatserver-master/include/server/redis -I/home/wh/workspace/chatserver-master/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/chatserver.cpp.o -c /home/wh/workspace/chatserver-master/src/server/chatserver.cpp",
+  "file": "/home/wh/workspace/chatserver-master/src/server/chatserver.cpp"
+},
+{
+  "directory": "/home/wh/workspace/chatserver-master/build/src/server",
+  "command": "/bin/g++-8   -I/home/wh/workspace/chatserver-master/include -I/home/wh/workspace/chatserver-master/include/server -I/home/wh/workspace/chatserver-master/include/server/db -I/home/wh/workspace/chatserver-master/include/server/model -I/home/wh/workspace/chatserver-master/include/server/redis -I/home/wh/workspace/chatserver-master/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/chatservice.cpp.o -c /home/wh/workspace/chatserver-master/src/server/chatservice.cpp",
+  "file": "/home/wh/workspace/chatserver-master/src/server/chatservice.cpp"
+},
+{
+  "directory": "/home/wh/workspace/chatserver-master/build/src/server",
+  "command": "/bin/g++-8   -I/home/wh/workspace/chatserver-master/include -I/home/wh/workspace/chatserver-master/include/server -I/home/wh/workspace/chatserver-master/include/server/db -I/home/wh/workspace/chatserver-master/include/server/model -I/home/wh/workspace/chatserver-master/include/server/redis -I/home/wh/workspace/chatserver-master/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/main.cpp.o -c /home/wh/workspace/chatserver-master/src/server/main.cpp",
+  "file": "/home/wh/workspace/chatserver-master/src/server/main.cpp"
+},
+{
+  "directory": "/home/wh/workspace/chatserver-master/build/src/server",
+  "command": "/bin/g++-8   -I/home/wh/workspace/chatserver-master/include -I/home/wh/workspace/chatserver-master/include/server -I/home/wh/workspace/chatserver-master/include/server/db -I/home/wh/workspace/chatserver-master/include/server/model -I/home/wh/workspace/chatserver-master/include/server/redis -I/home/wh/workspace/chatserver-master/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/db/db.cpp.o -c /home/wh/workspace/chatserver-master/src/server/db/db.cpp",
+  "file": "/home/wh/workspace/chatserver-master/src/server/db/db.cpp"
+},
+{
+  "directory": "/home/wh/workspace/chatserver-master/build/src/server",
+  "command": "/bin/g++-8   -I/home/wh/workspace/chatserver-master/include -I/home/wh/workspace/chatserver-master/include/server -I/home/wh/workspace/chatserver-master/include/server/db -I/home/wh/workspace/chatserver-master/include/server/model -I/home/wh/workspace/chatserver-master/include/server/redis -I/home/wh/workspace/chatserver-master/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/friendmoel.cpp.o -c /home/wh/workspace/chatserver-master/src/server/model/friendmoel.cpp",
+  "file": "/home/wh/workspace/chatserver-master/src/server/model/friendmoel.cpp"
+},
+{
+  "directory": "/home/wh/workspace/chatserver-master/build/src/server",
+  "command": "/bin/g++-8   -I/home/wh/workspace/chatserver-master/include -I/home/wh/workspace/chatserver-master/include/server -I/home/wh/workspace/chatserver-master/include/server/db -I/home/wh/workspace/chatserver-master/include/server/model -I/home/wh/workspace/chatserver-master/include/server/redis -I/home/wh/workspace/chatserver-master/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o -c /home/wh/workspace/chatserver-master/src/server/model/groupmodel.cpp",
+  "file": "/home/wh/workspace/chatserver-master/src/server/model/groupmodel.cpp"
+},
+{
+  "directory": "/home/wh/workspace/chatserver-master/build/src/server",
+  "command": "/bin/g++-8   -I/home/wh/workspace/chatserver-master/include -I/home/wh/workspace/chatserver-master/include/server -I/home/wh/workspace/chatserver-master/include/server/db -I/home/wh/workspace/chatserver-master/include/server/model -I/home/wh/workspace/chatserver-master/include/server/redis -I/home/wh/workspace/chatserver-master/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o -c /home/wh/workspace/chatserver-master/src/server/model/offlinemessagemodel.cpp",
+  "file": "/home/wh/workspace/chatserver-master/src/server/model/offlinemessagemodel.cpp"
+},
+{
+  "directory": "/home/wh/workspace/chatserver-master/build/src/server",
+  "command": "/bin/g++-8   -I/home/wh/workspace/chatserver-master/include -I/home/wh/workspace/chatserver-master/include/server -I/home/wh/workspace/chatserver-master/include/server/db -I/home/wh/workspace/chatserver-master/include/server/model -I/home/wh/workspace/chatserver-master/include/server/redis -I/home/wh/workspace/chatserver-master/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/usermodel.cpp.o -c /home/wh/workspace/chatserver-master/src/server/model/usermodel.cpp",
+  "file": "/home/wh/workspace/chatserver-master/src/server/model/usermodel.cpp"
+},
+{
+  "directory": "/home/wh/workspace/chatserver-master/build/src/server",
+  "command": "/bin/g++-8   -I/home/wh/workspace/chatserver-master/include -I/home/wh/workspace/chatserver-master/include/server -I/home/wh/workspace/chatserver-master/include/server/db -I/home/wh/workspace/chatserver-master/include/server/model -I/home/wh/workspace/chatserver-master/include/server/redis -I/home/wh/workspace/chatserver-master/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/redis/redis.cpp.o -c /home/wh/workspace/chatserver-master/src/server/redis/redis.cpp",
+  "file": "/home/wh/workspace/chatserver-master/src/server/redis/redis.cpp"
+},
+{
+  "directory": "/home/wh/workspace/chatserver-master/build/src/client",
+  "command": "/bin/g++-8   -I/home/wh/workspace/chatserver-master/include -I/home/wh/workspace/chatserver-master/include/server -I/home/wh/workspace/chatserver-master/include/server/db -I/home/wh/workspace/chatserver-master/include/server/model -I/home/wh/workspace/chatserver-master/include/server/redis -I/home/wh/workspace/chatserver-master/thirdparty  -g -g   -o CMakeFiles/ChatClient.dir/main.cpp.o -c /home/wh/workspace/chatserver-master/src/client/main.cpp",
+  "file": "/home/wh/workspace/chatserver-master/src/client/main.cpp"
+}
+]
